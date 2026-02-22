@@ -1,0 +1,78 @@
+SQL for Data Engineers — Learning Path
+
+Module 1: Introduction to Databases & SQL
+    1 What is a Database? Tables, rows, columns → similarity with Excel
+    2 What is SQL? Why Data Engineers must learn SQL
+
+Module 2: Data Types & Schema Design
+    3 Basic SQL Data Types (INT, DECIMAL, VARCHAR, DATE, BOOLEAN, etc.)
+    4 Creating Database & Tables
+    5 Primary Key & Uniqueness
+    6 Foreign Key & Relationships
+
+Module 3: Core Table Operations
+    7 CRUD Operations (Create, Read, Update, Delete)
+    8 Different Flavors of Reading Data (SELECT with filters, ordering, aliases)
+    9 UPDATE operations with conditions
+    10 DELETE vs DROP TABLE (row-level delete vs removing structure)
+
+Module 4: SQL Language Fundamentals
+    11 DDL vs DML concepts (structure vs data manipulation)
+    12 SQL Functions & Expressions
+    13 String (CONCAT, LENGTH, SUBSTR)
+    14 Numeric (ROUND, CEIL, ABS)
+    15 Date/Time functions
+
+Module 5: Querying Techniques
+    16 Subqueries (Scalar, IN, EXISTS)
+    17 Removing Duplicates (DISTINCT, ROW_NUMBER/RANK)
+
+Module 6: Joins & Relationships
+    18 SQL Joins – INNER, LEFT, RIGHT, FULL
+    19 Use cases for each in data engineering
+
+Module 7: Beyond Basics (optional extensions for DEs)
+    20 Aggregations & Grouping (GROUP BY, HAVING)
+    Window Functions (ROW_NUMBER, RANK, SUM OVER, etc.)
+    Views & Materialized Views
+    Best Practices for Data Engineers (naming conventions, partitioning, indexing intro)
+
+
+================================================================================================
+
+Part 1: Foundations (Videos 1–5)
+
+    1. What is a Database? Tables vs Excel Sheets  - Done
+    2. What is SQL and Why Every Data Engineer Must Learn It
+    3. SQL Data Types Explained with Examples
+    4. How to Create Databases & Tables (Primary Key, Uniqueness)
+    5. Understanding Relationships (Foreign Keys & Integrity)
+
+Part 2: Core CRUD (Videos 6–9)
+
+    6. INSERT Data into Tables
+    7. SELECT Queries – Reading Data in Different Ways
+    8. UPDATE with Conditions – Safe Practices
+    9. DELETE vs DROP TABLE – Key Differences
+
+Part 3: SQL Language Essentials (Videos 10–13)
+
+    10. DDL vs DML Explained Simply
+    11. String Functions – CONCAT, SUBSTR, TRIM, etc.
+    12. Numeric & Date Functions in SQL
+    13. CASE WHEN & Conditional Logic
+
+Part 4: Querying Power (Videos 14–17)
+
+    14. Subqueries – Basics with Examples
+    15. Advanced Subqueries – EXISTS, IN, Correlated
+    16. SQL Joins – INNER, LEFT, RIGHT, FULL Explained Visually
+    17. Removing Duplicates – DISTINCT vs ROW_NUMBER
+
+Part 5: Advanced for Data Engineers (Videos 18–21)
+
+     18. Aggregations & GROUP BY with HAVING
+     19. Window Functions for Analytics (ROW_NUMBER, RANK, SUM OVER)
+     20. Views & Materialized Views – Data Engineering Use Cases
+     21. Best Practices for Data Engineers (Indexing Intro, Naming, Performance)
+
